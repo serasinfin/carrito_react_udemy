@@ -25,4 +25,6 @@ yarn-error.log*
 # Images
 /src/products
 /src/logo.svg
-
+/public/favicon.ico
+/public/logo192.png
+/public/logo512.png
